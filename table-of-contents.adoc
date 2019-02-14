@@ -1,3 +1,12 @@
+:doctype: book
+:encoding: utf-8
+:lang: en
+:toc: macro
+:toclevels: 3
+:numbered:
+:sectanchors:
+
+
 ```
 :toc: macro
 :toclevels: 3
@@ -10,9 +19,7 @@ toc::[]
 ### And maybe a TOC if I did it right
 ```
 
-:toc: macro
-:toclevels: 3
-:numbered:
+<<<<
 
 toc::[]
 
