@@ -4,14 +4,21 @@
  * various things can be bullets
  * but stick to `*`
  ** Multi-level is easy
- . AsciiDoc will number for you
+ 
+ Separate bullet blocks with newlines. 
+
+ . AsciiDoc will auto-number for you
+ . Isn't that nice?
+ .. Even if you
+ ... Have to go to multiple levels
 
 ---
 
 * various things can be bullets
+* but stick to `*`
 ** Multi-level is easy
 
-Separate bullet blocks 
+Separate bullet blocks with newlines.
 
 . AsciiDoc will auto-number for you
 . Isn't that nice?
