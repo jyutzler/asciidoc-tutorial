@@ -1,2 +1,2 @@
 # asciidoc-tutorial
-A tutorial for using AsciiDoc, written in AsciiDoc
+A [tutorial](why-asciidoc.adoc) for using AsciiDoc, written in AsciiDoc.
