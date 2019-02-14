@@ -1,6 +1,6 @@
 ## Bullets and Numbering
 
-[literal]
+```
  * various things can be bullets
  * but stick to `*`
  ** Multi-level is easy
@@ -11,6 +11,7 @@
  . Isn't that nice?
  .. Even if you
  ... Have to go to multiple levels
+``` 
 
 ---
 
