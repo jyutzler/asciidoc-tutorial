@@ -1,0 +1,14 @@
+## Admonitions
+
+
+ [TIP]
+ ====
+ Need to get someone's attention?
+ Use [TIP], [NOTE], or [WARNING] and fence with ====
+ ====
+
+[TIP]
+====
+Need to get someone's attention?
+Use [TIP], [NOTE], or [WARNING] and fence with ====
+====

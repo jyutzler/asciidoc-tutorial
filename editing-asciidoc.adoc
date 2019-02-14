@@ -1,0 +1,7 @@
+## Editing AsciiDoc
+
+* Use a text editor like Atom 
+** `asciidoc-preview` FTW
+* Directly through GitHub or GitLab
+* AsciiDoc FX provides a WYSIWYG editor that some people like
+

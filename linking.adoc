@@ -1,0 +1,22 @@
+## Linking
+
+ [[anchors]] 
+ get rendered in HTML or AsciiDoc (but not GitLab at this time)
+ so you can <<anchors,link>> to them.
+ 
+ link:https://github.com/jyutzler/asciidoc-tutorial[hyperlinks are supported too].
+ 
+ Simple image: 
+ image::images/VT_Architecture.png[width=800,align="center"]
+
+ 
+ ---
+
+[[anchors]] 
+Anchors get rendered in HTML or AsciiDoc (but not GitLab at this time)
+so you can <<anchors,link>> to them.
+ 
+link:https://github.com/jyutzler/asciidoc-tutorial[Hyperlinks are supported too]
+(but you already knew that).
+ 
+ 

@@ -1,0 +1,23 @@
+```
+:toc: macro
+:toclevels: 3
+:numbered:
+
+toc::[]
+
+## It will generate
+### Heading numbers for you
+### And maybe a TOC if I did it right
+```
+
+:toc: macro
+:toclevels: 3
+:numbered:
+
+toc::[]
+
+## It will generate
+### Heading numbers for you
+### And maybe a TOC if I did it right
+
+ 

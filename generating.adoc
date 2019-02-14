@@ -1,0 +1,15 @@
+## Generating files
+
+* asciidoctor
+
+ asciidoctor --safe -o er.html er.adoc
+
+* asciidoctor-pdf
+
+ asciidoctor-pdf --safe -o er.pdf er.adoc
+
+[NOTE]
+====
+These are two separate tools, available in a package manager near you.
+====
+

@@ -1,0 +1,12 @@
+## Fencing
+
+ Indenting by one space is one way.
+ Fencing with .... or ``` is another.
+
+....
+<ResourceURL resourceType="defaultStyle" format="application/vnd.ogc.sld+xml" template="https://backoffice-maps.geo-solutions.it/geoserver/gwc/service/wmts/reststyles/layers/vtp:SettlementSrf/styles/settlementsrf_sld?f=application%2Fvnd.ogc.sld%2Bxml"/>
+....
+
+```
+Fencing with .... or ``` is another.
+```

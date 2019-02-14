@@ -1,0 +1,21 @@
+## Bullets and Numbering
+
+[literal]
+ * various things can be bullets
+ * but stick to `*`
+ ** Multi-level is easy
+ . AsciiDoc will number for you
+
+---
+
+* various things can be bullets
+** Multi-level is easy
+
+Separate bullet blocks 
+
+. AsciiDoc will auto-number for you
+. Isn't that nice?
+.. Even if you
+... Have to go to multiple levels
+
+link:linking.adoc[Next: Linking]

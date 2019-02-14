@@ -1,0 +1,22 @@
+## Tables
+
+```
+[options="header",]
+|====
+| Easy to overcomplicate | It will figure out | columns for you
+| but | lots | of
+| options  | are | available
+| if you | are so | inclined
+|====
+```
+
+---
+
+[options="header",]
+|====
+| Easy to overcomplicate | It will figure out | columns for you
+| but | lots | of
+| options  | are | available
+| if you | are so | inclined
+|====
+

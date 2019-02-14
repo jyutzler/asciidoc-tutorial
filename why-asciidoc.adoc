@@ -1,0 +1,14 @@
+## What AsciiDoc Is
+
+* A formatting language for documents
+** Can be used to generate HTML, PDF, and others
+* Designed for creating documents of _medium_ complexity
+** For documents that are one chapter or less, MarkDown is easier to work with
+*** _MarkDown doesn't support some critical things like includes and section numbering_
+** For documents requiring advanced formatting, it is insufficient 
+* Well-suited for configuration managed workflows 
+** Text markup fits in seamlessly with git and other CM tools
+** GitHub and GitLab have native support
+
+link:basic-writing.adoc[Next: Basic Writing]
+

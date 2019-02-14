@@ -1,0 +1,26 @@
+## Basic Writing
+
+THIS:
+
+ Just start typing. 
+ Separate paragraphs with a blank line.
+
+ Personally, I like to have one sentence or clause per line
+ because this makes revision tracking easier.
+
+BECOMES:
+
+---
+
+Just start typing.
+Separate paragraphs with a blank line.
+
+Personally, I like to have one sentence or clause per line
+because this makes revision tracking easier.
+
+[NOTE]
+====
+I'm going to use this structure throughout the presentation.
+====
+
+link:basic-syntax.adoc[Next: Basic Syntax]

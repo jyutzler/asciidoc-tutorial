@@ -1,0 +1,17 @@
+## Basic Syntax
+
+....
+ *bold* _italic_ 
+ `literal text`
+ [underline]#don't ask me why underling has its own rule#
+ There are more options too. You can go link:http://methods.co.nz/asciidoc/userguide.html#X96[hog wild] if you want
+....
+ 
+---
+ 
+*bold* _italic_ 
+`literal text`
+[underline]#don't ask me why underling has its own rule#
+There are more options too. You can go link:http://methods.co.nz/asciidoc/userguide.html#X96[hog wild] if you want
+
+link:bullets-numbering.adoc[Next: Bullets and Numbering]
