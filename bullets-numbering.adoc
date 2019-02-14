@@ -26,4 +26,4 @@ Separate bullet blocks with newlines.
 .. Even if you
 *** Have to go to multiple levels
 
-link:linking.adoc[Next: Linking]
+link:headings.adoc[Next: Headings]
