@@ -5,3 +5,4 @@
 * Directly through GitHub or GitLab
 * AsciiDoc FX provides a WYSIWYG editor that some people like
 
+link:generating.adoc[Next: Generating]

@@ -1,0 +1,18 @@
+## Includes
+
+....
+ For safety, separate includes with a newline.
+ 
+ include::introduction.adoc[]
+....
+
+You can include another file.
+
+include::introduction.adoc[]
+
+[WARNING]
+====
+GitLab and GitHub do not support includes in their inline rendering.
+====
+
+link:tables.adoc[Next: Tables]

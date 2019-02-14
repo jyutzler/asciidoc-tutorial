@@ -20,3 +20,4 @@
 | if you | are so | inclined
 |====
 
+link:admonitions.adoc[Next: Admonitions]

@@ -12,3 +12,5 @@
 Need to get someone's attention?
 Use [TIP], [NOTE], or [WARNING] and fence with ====
 ====
+
+link:table-of-contents.adoc[Next: Table of Contents]
