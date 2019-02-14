@@ -19,3 +19,5 @@ Generally don't use Heading 1.
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
+
+link:linking.adoc[Next: Linking]
