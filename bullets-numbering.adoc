@@ -24,6 +24,6 @@ Separate bullet blocks with newlines.
 . AsciiDoc will auto-number for you
 . Isn't that nice?
 .. Even if you
-... Have to go to multiple levels
+*** Have to go to multiple levels
 
 link:linking.adoc[Next: Linking]
