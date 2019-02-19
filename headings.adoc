@@ -20,4 +20,5 @@ Generally don't use Heading 1.
 ##### Heading 5
 ###### Heading 6
 
+link:bullets-numbering.adoc[Previous: Bullets and Numbering]
 link:linking.adoc[Next: Linking]

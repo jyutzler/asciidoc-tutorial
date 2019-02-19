@@ -16,4 +16,5 @@
 
 There are more options too. You can go link:http://methods.co.nz/asciidoc/userguide.html#X96[hog wild] if you want
 
+link:basic-writing.adoc[Previous: Basic Writing]
 link:bullets-numbering.adoc[Next: Bullets and Numbering]

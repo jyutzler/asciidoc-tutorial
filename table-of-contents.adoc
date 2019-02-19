@@ -27,5 +27,6 @@ toc::[]
 ### Heading numbers for you
 ### And maybe a TOC if I did it right
 
+link:admonitions.adoc[Previous: Admonitions]
 link:editing-asciidoc.adoc[Next: Editing AsciiDoc]
  

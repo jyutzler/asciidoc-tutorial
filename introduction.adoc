@@ -1,6 +1,0 @@
-# An AsciiDoc Tutorial, In AsciiDoc
-
-image:https://i.pinimg.com/736x/88/06/cd/8806cdf57a99d02f115cec09ff83de84.jpg[]
-
-link:why-asciidoc.adoc[Next: Why AsciiDoc?]
-

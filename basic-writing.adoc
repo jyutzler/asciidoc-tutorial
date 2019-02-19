@@ -23,4 +23,5 @@ because this makes revision tracking easier.
 I'm going to use this structure throughout the presentation.
 ====
 
+link:why-asciidoc.adoc[Previous: Why AsciiDoc]
 link:basic-syntax.adoc[Next: Basic Syntax]

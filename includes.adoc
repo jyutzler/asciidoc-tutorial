@@ -18,4 +18,5 @@ GitLab and GitHub do not support includes in their inline rendering
 but they at least show up as links.
 ====
 
-link:tables.adoc[Next: Tables]
+link:fencing.adoc[Previous: Fencing]
+link:admonitions.adoc[Next: Admonitions]

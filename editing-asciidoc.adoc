@@ -5,4 +5,5 @@
 * Directly through GitHub or GitLab
 * AsciiDoc FX provides a WYSIWYG editor that some people like
 
+link:table-of-contents.adoc[Previous: Table of Contents]
 link:generating.adoc[Next: Generating]

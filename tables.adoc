@@ -20,4 +20,5 @@
 | if you | are so | inclined
 |====
 
-link:admonitions.adoc[Next: Admonitions]
+link:linking.adoc[Previous: Linking]
+link:fencing.adoc[Next: Fencing]

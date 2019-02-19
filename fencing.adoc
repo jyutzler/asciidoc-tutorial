@@ -10,3 +10,6 @@
 ```
 Fencing with .... or ``` is another.
 ```
+
+link:linking.adoc[Previous: Linking]
+link:includes.adoc[Next: Includes]

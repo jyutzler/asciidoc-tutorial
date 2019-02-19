@@ -10,7 +10,7 @@
  . AsciiDoc will auto-number for you
  . Isn't that nice?
  .. Even if you
- ... Have to go to multiple levels
+ *** Have to go to multiple levels
 ``` 
 
 ---
@@ -26,4 +26,5 @@ Separate bullet blocks with newlines.
 .. Even if you
 *** Have to go to multiple levels
 
+link:basic-syntax.adoc[Previous: Basic Syntax]
 link:headings.adoc[Next: Headings]
