@@ -14,8 +14,10 @@ include::introduction.adoc[]
 
 [WARNING]
 ====
-GitLab and GitHub do not support includes in their inline rendering 
+GitLab and GitHub do not currently support includes in their inline rendering 
 but they at least show up as links.
+
+Includes *up* the directory hierarchy are not supported by most implementations.
 ====
 
 link:fencing.adoc[Previous: Fencing]
